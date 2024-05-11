@@ -1,0 +1,5 @@
+{
+  "dialect": "mysql",
+  "schema": "./src/drizzle/schema.ts",
+  "out": "./src/drizzle/migrations"
+}

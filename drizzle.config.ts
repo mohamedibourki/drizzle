@@ -11,4 +11,6 @@ export default defineConfig({
         port: 3306,
         database: "drizzle",
     },
+    verbose: true,
+    strict: true,
 })
